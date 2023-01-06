@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Event Type" max_length="40" name="x_144320_event_man_event_type" type="collection"/>
+</database>
